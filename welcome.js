@@ -11,4 +11,20 @@ const getTax = () => {
 const subtractTwoNumbers = (num1, num2) => num1 - num2;
 console.log(subtractTwoNumbers(9, 2))
 
+//getting an element using queryselector
 
+// const getElement = document.querySelectorAll(element-selected);
+//I keep forgetting to use document. document calls on the HTML file
+
+
+//practicing forEach
+
+const alphabetNumbers = [1, 5, 7, 8, 9];
+alphabetNumbers.forEach((number) => {
+console.log(number);    
+}
+);
+
+//need to learn ternary operator here
+
+//learn how to use the OR operator ||
