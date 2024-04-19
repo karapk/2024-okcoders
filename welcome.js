@@ -28,3 +28,5 @@ console.log(number);
 //need to learn ternary operator here
 
 //learn how to use the OR operator ||
+
+ 
