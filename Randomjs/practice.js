@@ -7,7 +7,7 @@ const coffeeKenya = "robusta"
 
 console.log(coffee);
 
-const numbers = [1, 2, 3, 4, 5, 6, 7];
+const numbers = [1, 2, 3];
 
 //new way I learnt of using functions
 
@@ -43,5 +43,14 @@ let i = 0;
 console.log(i);
 console.log(i++); 
 console.log(i++);
-console.log(i++);
+
+// more practice stuff
+function add(num1, num2) {
+  return num1 + num2
+}
+
+console.log(add(4, 4));
+
+
+
 

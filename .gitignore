@@ -1,1 +1,8 @@
 .DS_Store
+*.json
+*.map
+/vuessr/node_modules
+/vuessr/node_modules/@babel
+vuessr/node_modules/@babel/helper-string-parser/LICENSE
+*.md
+/vuessr/node_modules/@babel/helper-validator-identifier
